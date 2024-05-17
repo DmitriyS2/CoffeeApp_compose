@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="runero">runero</string>
+    <string name="runero_touch">RUNERO Touch</string>
+    <string name="name">Наименование</string>
+    <string name="enter_name">Введите название</string>
+    <string name="field_mustnt_empty">Название не должно быть пустым</string>
+    <string name="error_name">errorName</string>
+    <string name="price">Цена</string>
+    <string name="enter_price">Введите цену</string>
+    <string name="enter_number">Введите целое число больше 0</string>
+    <string name="error_price">errorPrice</string>
+    <string name="free">Продавать бесплатно</string>
+    <string name="save">Сохранить</string>
+    <string name="light">light</string>
+    <string name="circlelight">circleLight</string>
+    <string name="oklight">okLight</string>
+    <string name="dark">dark</string>
+    <string name="circledark">circleDark</string>
+    <string name="okdark">okDark</string>
+</resources>
