@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">CoffeeApp</string>
-    <string name="runero">runero</string>
+    <string name="runero1">runero1</string>
+    <string name="runero2">runero2</string>
     <string name="runero_touch">RUNERO Touch</string>
     <string name="name">Наименование</string>
     <string name="enter_name">Введите название</string>
@@ -18,4 +19,5 @@
     <string name="dark">dark</string>
     <string name="circledark">circleDark</string>
     <string name="okdark">okDark</string>
+    <string name="rub">rub</string>
 </resources>

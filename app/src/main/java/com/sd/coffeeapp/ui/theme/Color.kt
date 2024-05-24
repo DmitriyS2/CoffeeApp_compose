@@ -18,5 +18,4 @@ val ColorTextName = Color(0xFFC4A79B)
 val ColorTextMl = Color(0xFF514541)
 val ColorTextPrice = Color(0xFFF77416)
 val ColorTextField = Color(0xFF150E0C)
-val ColorIcon = Color(0xFFA0918B)
 
